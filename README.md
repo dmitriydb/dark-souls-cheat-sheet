@@ -1,3 +1,3 @@
-## Dark Souls Cheat Sheet
+## Dark Souls Minimalistic Cheat Sheet
 
-To view the cheat sheet [click here](https://smcnabb.github.io/dark-souls-cheat-sheet/).
+Originally by [smcnabb](https://github.com/smcnabb)
