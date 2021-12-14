@@ -16,3 +16,8 @@ th { text-align: left;}
 li:hover{
   background-color: BlanchedAlmond;
 }
+
+
+#profiles{
+  width: 60%;
+}
