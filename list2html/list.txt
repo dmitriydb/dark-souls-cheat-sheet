@@ -1,0 +1,36 @@
+[Firelink Shrine]
+
+Keys
+Undead Asylum F2 West Key (corpse)
+
+[Lower Undead Burg]
+
+Keys
+Key to Depths (Capra Demon - drop)
+
+[Undead Parish]
+
+Keys
+Mystery Key (corpse)
+Basement Key (corpse)
+
+[Depths]
+
+Keys
+Blighttown Key (Gaping Dragon drop)
+Sewer Chamber Key (corpse)
+
+[Blighttown]
+
+Keys
+Key to New Londo Ruins (chest)
+
+[Anor Londo]
+
+Keys
+Lordvessel (Gwynevere, Princess of Sunlight - Gift)
+
+[Demon Ruins]
+
+Rings
+Orange Charred Ring (Centipede Demon - drop or sever tail)

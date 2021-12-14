@@ -12,3 +12,7 @@ th { text-align: left;}
     .tab-pane { page-break-after: always; }
 
 }
+
+li:hover{
+  background-color: BlanchedAlmond;
+}

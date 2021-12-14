@@ -1,23 +1,57 @@
 (function($) {
 
+    //профили по умолчанию
     var defaultProfiles = {
         'current': 'Default Profile'
     };
+
     defaultProfiles[profilesKey] = {
         'Default Profile': {
-            checklistData: {}
+            checklistData: {},
+            turnedOff: {}
         }
     }
+
     var profiles = $.jStorage.get(profilesKey, defaultProfiles);
-
     jQuery(document).ready(function($) {
+      $("body").contextmenu(function(){
+          return false;
+        });
 
+      $("#check-all").click(function(){
+
+          $(".checkbox").each(function(index, item){
+            let id = $(this).find('input').attr('id');
+              $(item).find("input").prop('checked', true);
+              profiles[profilesKey][profiles.current].checklistData[id] = true;
+
+
+          });
+          calculateTotals();
+          $.jStorage.set(profilesKey, profiles);
+      });
+
+      $("#uncheck-all").click(function(){
+
+          $(".checkbox").each(function(index, item){
+
+              let id = $(this).find('input').attr('id');
+              if (profiles[profilesKey][profiles.current].turnedOff[id]) return;
+              $(item).find("input").removeAttr('checked', '');
+              profiles[profilesKey][profiles.current].checklistData[id] = false;
+          });
+          calculateTotals();
+          $.jStorage.set(profilesKey, profiles);
+      });
+
+        // localStorage.clear();
         // TODO Find a better way to do this in one pass
         $('ul li li').each(function(index) {
             if ($(this).attr('data-id')) {
                 addCheckbox(this);
             }
         });
+
         $('ul li').each(function(index) {
             if ($(this).attr('data-id')) {
                 addCheckbox(this);
@@ -26,10 +60,10 @@
 
         populateProfiles();
 
+        //функция обработки нажатия на чекбокс
         $('input[type="checkbox"]').click(function() {
             var id = $(this).attr('id');
             var isChecked = profiles[profilesKey][profiles.current].checklistData[id] = $(this).prop('checked');
-            _gaq.push(['_trackEvent', 'Checkbox', (isChecked ? 'Check' : 'Uncheck'), id]);
             $(this).parent().parent().find('li > label > input[type="checkbox"]').each(function() {
                 var id = $(this).attr('id');
                 profiles[profilesKey][profiles.current].checklistData[id] = isChecked;
@@ -43,7 +77,6 @@
             profiles.current = $(this).val();
             $.jStorage.set(profilesKey, profiles);
             populateChecklists();
-            _gaq.push(['_trackEvent', 'Profile', 'Change', profiles.current]);
         });
 
         $('#profileAdd').click(function() {
@@ -53,7 +86,6 @@
             $('#profileModalUpdate').hide();
             $('#profileModalDelete').hide();
             $('#profileModal').modal('show');
-            _gaq.push(['_trackEvent', 'Profile', 'Add']);
         });
 
         $('#profileEdit').click(function() {
@@ -67,7 +99,6 @@
                 $('#profileModalDelete').hide();
             }
             $('#profileModal').modal('show');
-            _gaq.push(['_trackEvent', 'Profile', 'Edit', profiles.current]);
         });
 
         $('#profileModalAdd').click(function(event) {
@@ -75,7 +106,7 @@
             var profile = $.trim($('#profileModalName').val());
             if (profile.length > 0) {
                 if (typeof profiles[profilesKey][profile] == 'undefined') {
-                    profiles[profilesKey][profile] = { checklistData: {} };
+                    profiles[profilesKey][profile] = { checklistData: {}, turnedOff: {} };
                 }
                 profiles.current = profile;
                 $.jStorage.set(profilesKey, profiles);
@@ -83,7 +114,6 @@
                 populateChecklists();
             }
             $('#profileModal').modal('hide');
-            _gaq.push(['_trackEvent', 'Profile', 'Create', profile]);
         });
 
         $('#profileModalUpdate').click(function(event) {
@@ -97,7 +127,6 @@
                 populateProfiles();
             }
             $('#profileModal').modal('hide');
-            _gaq.push(['_trackEvent', 'Profile', 'Update', profile]);
         });
 
         $('#profileModalDelete').click(function(event) {
@@ -114,19 +143,18 @@
             populateProfiles();
             populateChecklists();
             $('#profileModal').modal('hide');
-            _gaq.push(['_trackEvent', 'Profile', 'Delete']);
         });
 
         $('#profileModalClose').click(function(event) {
             event.preventDefault();
             $('#profileModal').modal('hide');
-            _gaq.push(['_trackEvent', 'Profile', 'Close']);
         });
 
         calculateTotals();
 
     });
 
+    //добавляет в profiles список существующих профилей
     function populateProfiles() {
         $('#profiles').empty();
         $.each(profiles[profilesKey], function(index, value) {
@@ -140,9 +168,12 @@
         $.each(profiles[profilesKey][profiles.current].checklistData, function(index, value) {
             $('#' + index).prop('checked', value);
         });
+
         calculateTotals();
     }
 
+    /**Вычисляет количество нажатых чекбоксов в каждой категории
+    и общий показатель*/
     function calculateTotals() {
         $('[id$="_overall_total"]').each(function(index) {
             var type = this.id.match(/(.*)_overall_total/)[1];
@@ -183,6 +214,9 @@
         });
     }
 
+    /* Добавляет чекбокс в элемент с атрибутом data_id
+      Если чекбокс в профиле был установлен, то устанавливает его в checked
+    */
     function addCheckbox(el) {
         var lines = $(el).html().split('\n');
         lines[0] = '<label class="checkbox"><input type="checkbox" id="' + $(el).attr('data-id') + '">' + lines[0] + '</label>';
@@ -190,6 +224,38 @@
         if (profiles[profilesKey][profiles.current].checklistData[$(el).attr('data-id')] == true) {
             $('#' + $(el).attr('data-id')).prop('checked', true);
         }
+        if (profiles[profilesKey][profiles.current].turnedOff[$(el).attr('data-id')]) {
+            $('#' + $(el).attr('data-id')).prop('checked', true);
+            $('#' + $(el).attr('data-id')).prop('disabled', true);
+            $('#' + $(el).attr('data-id')).parent().css("opacity", "0.3");
+        }
+
+
+$(".checkbox").click(function(){
+  let id = $(this).find('input').attr('id');
+  if (profiles[profilesKey][profiles.current].turnedOff[id]){
+    $(this).find('input').removeAttr('disabled','');
+    $(this).find('input').removeAttr("checked", "");
+    $(this).find('input').prop("checked", "true");
+    this.style = "opacity:1";
+    profiles[profilesKey][profiles.current].turnedOff[id] = false;
+    calculateTotals();
+    $.jStorage.set(profilesKey, profiles);
+
+  }
+});
+
+        $(".checkbox").mousedown(function(event){
+            if (event.which == 3){
+                  let id = $(this).find('input').attr('id');
+                  $(this).find('input').prop("checked", "true");
+                  $(this).find('input').prop("disabled", "true");
+                  this.style = "opacity:0.3";
+                  profiles[profilesKey][profiles.current].turnedOff[id] = true;
+                  calculateTotals();
+                  $.jStorage.set(profilesKey, profiles);
+            }
+        });
     }
 
     function canDelete() {

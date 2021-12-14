@@ -1,0 +1,54 @@
+<h2>Playthrough Checklist <span id="checklist_overall_total"></span></h2>
+<ul>
+<li><a href="#Firelink_Shrine">Firelink Shrine</a><span id="checklist_nav_totals_1"></span></li>
+<li><a href="#Lower_Undead_Burg">Lower Undead Burg</a><span id="checklist_nav_totals_2"></span></li>
+<li><a href="#Undead_Parish">Undead Parish</a><span id="checklist_nav_totals_3"></span></li>
+<li><a href="#Depths">Depths</a><span id="checklist_nav_totals_4"></span></li>
+<li><a href="#Blighttown">Blighttown</a><span id="checklist_nav_totals_5"></span></li>
+<li><a href="#Anor_Londo">Anor Londo</a><span id="checklist_nav_totals_6"></span></li>
+<li><a href="#Demon_Ruins">Demon Ruins</a><span id="checklist_nav_totals_7"></span></li>
+</ul>
+<a name="Firelink_Shrine"></a>
+<h3>Firelink Shrine<span id="checklist_totals_1"></span></h3>
+<ul>
+<h4>Keys</h4>
+  <li data-id="checklist_1_1"> Undead Asylum F2 West Key <span class="badge badge-pill badge-danger">corpse</span> </li>
+</ul>
+<a name="Lower_Undead_Burg"></a>
+<h3>Lower Undead Burg<span id="checklist_totals_2"></span></h3>
+<ul>
+<h4>Keys</h4>
+  <li data-id="checklist_2_1"> Key to Depths <span class="badge badge-pill badge-danger">Capra Demon - drop</span> </li>
+</ul>
+<a name="Undead_Parish"></a>
+<h3>Undead Parish<span id="checklist_totals_3"></span></h3>
+<ul>
+<h4>Keys</h4>
+  <li data-id="checklist_3_1"> Mystery Key <span class="badge badge-pill badge-danger">corpse</span> </li>
+  <li data-id="checklist_3_2"> Basement Key <span class="badge badge-pill badge-danger">corpse</span> </li>
+</ul>
+<a name="Depths"></a>
+<h3>Depths<span id="checklist_totals_4"></span></h3>
+<ul>
+<h4>Keys</h4>
+  <li data-id="checklist_4_1"> Blighttown Key <span class="badge badge-pill badge-danger">Gaping Dragon drop</span> </li>
+  <li data-id="checklist_4_2"> Sewer Chamber Key <span class="badge badge-pill badge-danger">corpse</span> </li>
+</ul>
+<a name="Blighttown"></a>
+<h3>Blighttown<span id="checklist_totals_5"></span></h3>
+<ul>
+<h4>Keys</h4>
+  <li data-id="checklist_5_1"> Key to New Londo Ruins <span class="badge badge-pill badge-danger">chest</span> </li>
+</ul>
+<a name="Anor_Londo"></a>
+<h3>Anor Londo<span id="checklist_totals_6"></span></h3>
+<ul>
+<h4>Keys</h4>
+  <li data-id="checklist_6_1"> Lordvessel <span class="badge badge-pill badge-danger">Gwynevere, Princess of Sunlight - Gift</span> </li>
+</ul>
+<a name="Demon_Ruins"></a>
+<h3>Demon Ruins<span id="checklist_totals_7"></span></h3>
+<ul>
+<h4>Rings</h4>
+  <li data-id="checklist_7_1"> Orange Charred Ring <span class="badge badge-pill badge-danger">Centipede Demon - drop or sever tail</span> </li>
+</ul>
