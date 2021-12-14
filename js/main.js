@@ -20,7 +20,7 @@
 
       $("#check-all").click(function(){
 
-          $(".checkbox").each(function(index, item){
+          $(".active").find(".checkbox").each(function(index, item){
             let id = $(this).find('input').attr('id');
               $(item).find("input").prop('checked', true);
               profiles[profilesKey][profiles.current].checklistData[id] = true;
@@ -33,7 +33,7 @@
 
       $("#uncheck-all").click(function(){
 
-          $(".checkbox").each(function(index, item){
+            $(".active").find(".checkbox").each(function(index, item){
 
               let id = $(this).find('input').attr('id');
               if (profiles[profilesKey][profiles.current].turnedOff[id]) return;
