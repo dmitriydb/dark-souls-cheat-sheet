@@ -1,54 +1,580 @@
-<h2>Playthrough Checklist <span id="checklist_overall_total"></span></h2>
+<h2>Playthrough Checklist <span id="playthrough_overall_total"></span></h2>
 <ul>
-<li><a href="#Firelink_Shrine">Firelink Shrine</a><span id="checklist_nav_totals_1"></span></li>
-<li><a href="#Lower_Undead_Burg">Lower Undead Burg</a><span id="checklist_nav_totals_2"></span></li>
-<li><a href="#Undead_Parish">Undead Parish</a><span id="checklist_nav_totals_3"></span></li>
-<li><a href="#Depths">Depths</a><span id="checklist_nav_totals_4"></span></li>
-<li><a href="#Blighttown">Blighttown</a><span id="checklist_nav_totals_5"></span></li>
-<li><a href="#Anor_Londo">Anor Londo</a><span id="checklist_nav_totals_6"></span></li>
-<li><a href="#Demon_Ruins">Demon Ruins</a><span id="checklist_nav_totals_7"></span></li>
+<li><a href="#Firelink_Shrine">Firelink Shrine</a><span id="playthrough_nav_totals_1"></span></li>
+<li><a href="#Upper_Undead_Burg">Upper Undead Burg</a><span id="playthrough_nav_totals_2"></span></li>
+<li><a href="#Lower_Undead_Burg">Lower Undead Burg</a><span id="playthrough_nav_totals_3"></span></li>
+<li><a href="#Undead_Parish">Undead Parish</a><span id="playthrough_nav_totals_4"></span></li>
+<li><a href="#Depths">Depths</a><span id="playthrough_nav_totals_5"></span></li>
+<li><a href="#Blighttown">Blighttown</a><span id="playthrough_nav_totals_6"></span></li>
+<li><a href="#Quelaag's_Domain">Quelaag's Domain</a><span id="playthrough_nav_totals_7"></span></li>
+<li><a href="#Sen_Fortress">Sen Fortress</a><span id="playthrough_nav_totals_8"></span></li>
+<li><a href="#Anor_Londo">Anor Londo</a><span id="playthrough_nav_totals_9"></span></li>
+<li><a href="#Demon_Ruins">Demon Ruins</a><span id="playthrough_nav_totals_10"></span></li>
+<li><a href="#New_Londo_Ruins">New Londo Ruins</a><span id="playthrough_nav_totals_11"></span></li>
+<li><a href="#Lost_Izalith">Lost Izalith</a><span id="playthrough_nav_totals_12"></span></li>
+<li><a href="#Darkroot_Basin">Darkroot Basin</a><span id="playthrough_nav_totals_13"></span></li>
+<li><a href="#Darkroot_Garden">Darkroot Garden</a><span id="playthrough_nav_totals_14"></span></li>
+<li><a href="#Valley_of_Drakes">Valley of Drakes</a><span id="playthrough_nav_totals_15"></span></li>
+<li><a href="#Catacombs">Catacombs</a><span id="playthrough_nav_totals_16"></span></li>
+<li><a href="#Tomb_of_the_Giants">Tomb of the Giants</a><span id="playthrough_nav_totals_17"></span></li>
+<li><a href="#The_Duke's_Archives">The Duke's Archives</a><span id="playthrough_nav_totals_18"></span></li>
+<li><a href="#Crystal_Cave">Crystal Cave</a><span id="playthrough_nav_totals_19"></span></li>
+<li><a href="#Undead_Asylum_Revisited">Undead Asylum Revisited</a><span id="playthrough_nav_totals_20"></span></li>
+<li><a href="#Painted_World_of_Ariamis">Painted World of Ariamis</a><span id="playthrough_nav_totals_21"></span></li>
+<li><a href="#The_Great_Hollow">The Great Hollow</a><span id="playthrough_nav_totals_22"></span></li>
+<li><a href="#Ash_Lake">Ash Lake</a><span id="playthrough_nav_totals_23"></span></li>
+<li><a href="#Kiln_of_the_First_Flame">Kiln of the First Flame</a><span id="playthrough_nav_totals_24"></span></li>
 </ul>
 <a name="Firelink_Shrine"></a>
-<h3>Firelink Shrine<span id="checklist_totals_1"></span></h3>
+<h3>Firelink Shrine<span id="playthrough_totals_1"></span></h3>
 <ul>
+<h4>Armor</h4>
+  <li data-id="playthrough_1_1"> Dingy Set <span class="badge badge-pill badge-danger">Anastacia of Astora - corpse</span> </li>
 <h4>Keys</h4>
-  <li data-id="checklist_1_1"> Undead Asylum F2 West Key <span class="badge badge-pill badge-danger">corpse</span> </li>
+  <li data-id="playthrough_1_2"> Undead Asylum F2 West Key <span class="badge badge-pill badge-danger">corpse</span> </li>
+<h4>Miracles</h4>
+  <li data-id="playthrough_1_3"> Emit Force <span class="badge badge-pill badge-danger">Siegmeyer: gift</span> </li>
+<h4>Miscellaneous</h4>
+  <li data-id="playthrough_1_4"> Binoculars <span class="badge badge-pill badge-danger">corpse</span> </li>
+  <li data-id="playthrough_1_5"> Black Eye Orb <span class="badge badge-pill badge-danger">Anastacia of Astora: corpse</span> </li>
+  <li data-id="playthrough_1_6"> Copper Coin <span class="badge badge-pill badge-danger">Petrus of Thorolund: gift</span> </li>
+  <li data-id="playthrough_1_7"> Cracked Red Eye Orb x4 <span class="badge badge-pill badge-danger">chest</span> </li>
+  <li data-id="playthrough_1_8"> Firebomb x6 <span class="badge badge-pill badge-danger">corpse</span> </li>
+  <li data-id="playthrough_1_9"> Homeward Bone x6 <span class="badge badge-pill badge-danger">chest</span> </li>
+  <li data-id="playthrough_1_10"> Humanity x3 <span class="badge badge-pill badge-danger">corpse</span> </li>
+  <li data-id="playthrough_1_11"> Lloyd's Talisman x4 <span class="badge badge-pill badge-danger">chest</span> </li>
+  <li data-id="playthrough_1_12"> Sunlight Medal <span class="badge badge-pill badge-danger">Lautrec: gift</span> </li>
+<h4>Rings</h4>
+  <li data-id="playthrough_1_13"> Ring of Sacrifice <span class="badge badge-pill badge-danger">corpse</span> </li>
+<h4>Weapons</h4>
+  <li data-id="playthrough_1_14"> Caduceus Round Shield <span class="badge badge-pill badge-danger">corpse</span> </li>
+  <li data-id="playthrough_1_15"> Morning Star <span class="badge badge-pill badge-danger">chest</span> </li>
+  <li data-id="playthrough_1_16"> Pyromancy Flame <span class="badge badge-pill badge-danger">Laurentius: gift</span> </li>
+  <li data-id="playthrough_1_17"> Talisman <span class="badge badge-pill badge-danger">chest</span> </li>
+  <li data-id="playthrough_1_18"> Winged Spear <span class="badge badge-pill badge-danger">corpse</span> </li>
+  <li data-id="playthrough_1_19"> Zweihander <span class="badge badge-pill badge-danger">corpse</span> </li>
+</ul>
+<a name="Upper_Undead_Burg"></a>
+<h3>Upper Undead Burg<span id="playthrough_totals_2"></span></h3>
+<ul>
+<h4>Miscellaneous</h4>
+  <li data-id="playthrough_2_1"> Black Firebomb ×5 <span class="badge badge-pill badge-danger">chest</span> </li>
+  <li data-id="playthrough_2_2"> Gold Pine Resin ×3 <span class="badge badge-pill badge-danger">chest</span> </li>
+  <li data-id="playthrough_2_3"> Humanity <span class="badge badge-pill badge-danger">corpse</span> </li>
+  <li data-id="playthrough_2_4"> Rubbish <span class="badge badge-pill badge-danger">corpse</span> </li>
+  <li data-id="playthrough_2_5"> Throwing Knife ×10 <span class="badge badge-pill badge-danger">corpse</span> </li>
+  <li data-id="playthrough_2_6"> White Sign Soapstone <span class="badge badge-pill badge-danger">Solaire of Astora - gift</span> </li>
+<h4>Rings</h4>
+  <li data-id="playthrough_2_7"> Blue Tearstone Ring <span class="badge badge-pill badge-danger">corpse - guarded by a Black Knight</span> </li>
+<h4>Upgrade materials</h4>
+  <li data-id="playthrough_2_8"> Titanite Chunk <span class="badge badge-pill badge-danger">Black Knight - drop</span> </li>
+<h4>Weapons</h4>
+  <li data-id="playthrough_2_9"> Drake Sword <span class="badge badge-pill badge-danger">Hellkite Dragon - sever tail</span> </li>
+  <li data-id="playthrough_2_10"> Light Crossbow and Standard Bolt ×16 <span class="badge badge-pill badge-danger">corpse</span> </li>
+  <li data-id="playthrough_2_11"> Uchigatana <span class="badge badge-pill badge-danger">Undead Male Merchant - drop</span> </li>
+  <li data-id="playthrough_2_12"> Wooden Shield <span class="badge badge-pill badge-danger">corpse</span> </li>
 </ul>
 <a name="Lower_Undead_Burg"></a>
-<h3>Lower Undead Burg<span id="checklist_totals_2"></span></h3>
+<h3>Lower Undead Burg<span id="playthrough_totals_3"></span></h3>
 <ul>
+<h4>Armor</h4>
+  <li data-id="playthrough_3_1"> Sorcerer Set <span class="badge badge-pill badge-danger">corpse</span> </li>
+  <li data-id="playthrough_3_2"> Thief Set <span class="badge badge-pill badge-danger">corpse</span> </li>
 <h4>Keys</h4>
-  <li data-id="checklist_2_1"> Key to Depths <span class="badge badge-pill badge-danger">Capra Demon - drop</span> </li>
+  <li data-id="playthrough_3_3"> Key to Depths <span class="badge badge-pill badge-danger">Capra Demon - drop</span> </li>
+<h4>Miscellaneous</h4>
+  <li data-id="playthrough_3_4"> Twin Humanities <span class="badge badge-pill badge-danger">corpse</span> </li>
+<h4>Weapons</h4>
+  <li data-id="playthrough_3_5"> Mail Breaker <span class="badge badge-pill badge-danger">corpse</span> </li>
+  <li data-id="playthrough_3_6"> Sorcerer's Catalyst <span class="badge badge-pill badge-danger">corpse</span> </li>
+  <li data-id="playthrough_3_7"> Target Shield <span class="badge badge-pill badge-danger">corpse</span> </li>
 </ul>
 <a name="Undead_Parish"></a>
-<h3>Undead Parish<span id="checklist_totals_3"></span></h3>
+<h3>Undead Parish<span id="playthrough_totals_4"></span></h3>
 <ul>
 <h4>Keys</h4>
-  <li data-id="checklist_3_1"> Mystery Key <span class="badge badge-pill badge-danger">corpse</span> </li>
-  <li data-id="checklist_3_2"> Basement Key <span class="badge badge-pill badge-danger">corpse</span> </li>
+  <li data-id="playthrough_4_1"> Mystery Key <span class="badge badge-pill badge-danger">corpse</span> </li>
+  <li data-id="playthrough_4_2"> Basement Key <span class="badge badge-pill badge-danger">corpse</span> </li>
+<h4>Miscellaneous</h4>
+  <li data-id="playthrough_4_3"> Alluring Skull ×4 <span class="badge badge-pill badge-danger">corpse</span> </li>
+  <li data-id="playthrough_4_4"> Humanity <span class="badge badge-pill badge-danger">corpse</span> </li>
+  <li data-id="playthrough_4_5"> Sunlight Medal <span class="badge badge-pill badge-danger">Bell Gargoyles - drop if Solaire is present</span> </li>
+<h4>Upgrade materials</h4>
+  <li data-id="playthrough_4_6"> Demon Titanite <span class="badge badge-pill badge-danger">Titanite Demon - drop</span> </li>
+  <li data-id="playthrough_4_7"> Titanite Shard <span class="badge badge-pill badge-danger">Berenike Knight - drop</span> </li>
+<h4>Souls</h4>
+  <li data-id="playthrough_4_8"> Fire Keeper Soul <span class="badge badge-pill badge-danger">corpse</span> </li>
+<h4>Weapons</h4>
+  <li data-id="playthrough_4_9"> Gargoyle Tail Axe <span class="badge badge-pill badge-danger">Bell Gargoyles - sever tail</span> </li>
+  <li data-id="playthrough_4_10"> Halberd <span class="badge badge-pill badge-danger">corpse</span> </li>
+  <li data-id="playthrough_4_11"> Knight Shield <span class="badge badge-pill badge-danger">corpse</span> </li>
 </ul>
 <a name="Depths"></a>
-<h3>Depths<span id="checklist_totals_4"></span></h3>
+<h3>Depths<span id="playthrough_totals_5"></span></h3>
 <ul>
+<h4>Armor</h4>
+  <li data-id="playthrough_5_1"> Sack <span class="badge badge-pill badge-danger">Butcher drop</span> </li>
+  <li data-id="playthrough_5_2"> Warrior Set <span class="badge badge-pill badge-danger">corpse</span> </li>
+<h4>Embers</h4>
+  <li data-id="playthrough_5_3"> Large Ember <span class="badge badge-pill badge-danger">chest</span> </li>
 <h4>Keys</h4>
-  <li data-id="checklist_4_1"> Blighttown Key <span class="badge badge-pill badge-danger">Gaping Dragon drop</span> </li>
-  <li data-id="checklist_4_2"> Sewer Chamber Key <span class="badge badge-pill badge-danger">corpse</span> </li>
+  <li data-id="playthrough_5_4"> Blighttown Key <span class="badge badge-pill badge-danger">Gaping Dragon drop</span> </li>
+  <li data-id="playthrough_5_5"> Sewer Chamber Key <span class="badge badge-pill badge-danger">corpse</span> </li>
+<h4>Miscellaneous</h4>
+  <li data-id="playthrough_5_6"> Humanity <span class="badge badge-pill badge-danger">corpse</span> </li>
+<h4>Rings</h4>
+  <li data-id="playthrough_5_7"> Ring of the Evil Eye <span class="badge badge-pill badge-danger">corpse</span> </li>
+<h4>Upgrade Materials</h4>
+  <li data-id="playthrough_5_8"> Large Titanite Shard <span class="badge badge-pill badge-danger">corpse</span> </li>
+<h4>Weapons</h4>
+  <li data-id="playthrough_5_9"> Dragon King Greataxe <span class="badge badge-pill badge-danger">Gaping Dragon - sever tail</span> </li>
+  <li data-id="playthrough_5_10"> Greataxe <span class="badge badge-pill badge-danger">corpse</span> </li>
+  <li data-id="playthrough_5_11"> Heavy Crossbow and Heavy Bolt ×11 <span class="badge badge-pill badge-danger">corpse</span> </li>
+  <li data-id="playthrough_5_12"> Spider Shield <span class="badge badge-pill badge-danger">corpse</span> </li>
 </ul>
 <a name="Blighttown"></a>
-<h3>Blighttown<span id="checklist_totals_5"></span></h3>
+<h3>Blighttown<span id="playthrough_totals_6"></span></h3>
 <ul>
+<h4>Armor</h4>
+  <li data-id="playthrough_6_1"> Crimson Set <span class="badge badge-pill badge-danger">corpse</span> </li>
+  <li data-id="playthrough_6_2"> Tattered Cloth Set <span class="badge badge-pill badge-danger">corpse</span> </li>
+  <li data-id="playthrough_6_3"> Shadow Set <span class="badge badge-pill badge-danger">corpse</span> </li>
+  <li data-id="playthrough_6_4"> Wanderer Set <span class="badge badge-pill badge-danger">corpse</span> </li>
 <h4>Keys</h4>
-  <li data-id="checklist_5_1"> Key to New Londo Ruins <span class="badge badge-pill badge-danger">chest</span> </li>
+  <li data-id="playthrough_6_5"> Key to New Londo Ruins <span class="badge badge-pill badge-danger">chest</span> </li>
+<h4>Pyromancies</h4>
+  <li data-id="playthrough_6_6"> Fire Tempest <span class="badge badge-pill badge-danger">Quelana - gift or drop</span> </li>
+  <li data-id="playthrough_6_7"> Poison Mist <span class="badge badge-pill badge-danger">corpse</span> </li>
+  <li data-id="playthrough_6_8"> Power Within <span class="badge badge-pill badge-danger">corpse</span> </li>
+<h4>Sorceries</h4>
+  <li data-id="playthrough_6_9"> Remedy <span class="badge badge-pill badge-danger">chest</span> </li>
+<h4>Miscellaneous</h4>
+  <li data-id="playthrough_6_10"> Blooming Purple Moss Clump ×3 <span class="badge badge-pill badge-danger">corpse</span> </li>
+  <li data-id="playthrough_6_11"> Fire Keeper Soul <span class="badge badge-pill badge-danger">corpse</span> </li>
+  <li data-id="playthrough_6_12"> Twin Humanities <span class="badge badge-pill badge-danger">chest</span> </li>
+  <li data-id="playthrough_6_13"> Various souls items </li>
+<h4>Upgrade materials</h4>
+  <li data-id="playthrough_6_14"> Dragon Scale <span class="badge badge-pill badge-danger">chest</span> </li>
+  <li data-id="playthrough_6_15"> Green Titanite Shard <span class="badge badge-pill badge-danger">corpse</span> </li>
+  <li data-id="playthrough_6_16"> Large Titanite Shard ×2 <span class="badge badge-pill badge-danger">corpses</span> </li>
+<h4>Weapons</h4>
+  <li data-id="playthrough_6_17"> Butcher Knife <span class="badge badge-pill badge-danger">Maneater Mildred - drop</span> </li>
+  <li data-id="playthrough_6_18"> Eagle Shield <span class="badge badge-pill badge-danger">corpse</span> </li>
+  <li data-id="playthrough_6_19"> Falchion <span class="badge badge-pill badge-danger">corpse</span> </li>
+  <li data-id="playthrough_6_20"> Great Club <span class="badge badge-pill badge-danger">corpse</span> </li>
+  <li data-id="playthrough_6_21"> Iaito <span class="badge badge-pill badge-danger">corpse</span> </li>
+  <li data-id="playthrough_6_22"> Pierce Shield <span class="badge badge-pill badge-danger">Siegmeyer - gift</span> </li>
+  <li data-id="playthrough_6_23"> Plank Shield <span class="badge badge-pill badge-danger">corpse</span> </li>
+  <li data-id="playthrough_6_24"> Server <span class="badge badge-pill badge-danger">corpse</span> </li>
+  <li data-id="playthrough_6_25"> Tin Banishment Catalyst <span class="badge badge-pill badge-danger">corpse</span> </li>
+  <li data-id="playthrough_6_26"> Whip <span class="badge badge-pill badge-danger">corpse</span> </li>
+</ul>
+<a name="Quelaag's_Domain"></a>
+<h3>Quelaag's Domain<span id="playthrough_totals_7"></span></h3>
+<ul>
+<h4>Armor</h4>
+  <li data-id="playthrough_7_1"> Set of Thorns <span class="badge badge-pill badge-danger">corpse - appears only after defeating Kirk, Knight of Thorns in all three encounters</span> </li>
+<h4>Miscellaneous</h4>
+  <li data-id="playthrough_7_2"> Egg Vermifuge <span class="badge badge-pill badge-danger">Eingyi - gift if infected with the Egghead status effect</span> </li>
+<h4>Pyromancies</h4>
+  <li data-id="playthrough_7_3"> Chaos Storm <span class="badge badge-pill badge-danger">Quelaag's Sister - gift upon reaching +2 covenant rank</span> </li>
+  <li data-id="playthrough_7_4"> Great Chaos Fireball <span class="badge badge-pill badge-danger">Quelaag's Sister - gift upon joining covenant</span> </li>
+<h4>Souls</h4>
+  <li data-id="playthrough_7_5"> Fire Keeper Soul <span class="badge badge-pill badge-danger">Quelaag's Sister - drop</span> </li>
+  <li data-id="playthrough_7_6"> Soul of Quelaag <span class="badge badge-pill badge-danger">Quelaag - drop</span> </li>
+</ul>
+<a name="Sen_Fortress"></a>
+<h3>Sen Fortress<span id="playthrough_totals_8"></span></h3>
+<ul>
+<h4>Armor</h4>
+  <li data-id="playthrough_8_1"> Black Sorcerer Set <span class="badge badge-pill badge-danger">corpse</span> </li>
+<h4>Keys</h4>
+  <li data-id="playthrough_8_2"> Cage Key <span class="badge badge-pill badge-danger">corpse</span> </li>
+<h4>Miscellaneous</h4>
+  <li data-id="playthrough_8_3"> Divine Blessing <span class="badge badge-pill badge-danger">chest</span> </li>
+<h4>Rings</h4>
+  <li data-id="playthrough_8_4"> Covetous Gold Serpent Ring <span class="badge badge-pill badge-danger">corpse</span> </li>
+  <li data-id="playthrough_8_5"> Flame Stoneplate Ring <span class="badge badge-pill badge-danger">chest</span> </li>
+  <li data-id="playthrough_8_6"> Rare Ring of Sacrifice <span class="badge badge-pill badge-danger">chest</span> </li>
+  <li data-id="playthrough_8_7"> Ring of Steel Protection <span class="badge badge-pill badge-danger">chest</span> </li>
+  <li data-id="playthrough_8_8"> Slumbering Dragoncrest Ring <span class="badge badge-pill badge-danger">corpse</span> </li>
+<h4>Sorceries</h4>
+  <li data-id="playthrough_8_9"> Hush <span class="badge badge-pill badge-danger">corpse</span> </li>
+<h4>Souls</h4>
+  <li data-id="playthrough_8_10"> Core of an Iron Golem <span class="badge badge-pill badge-danger">drop</span> </li>
+  <li data-id="playthrough_8_11"> Soul of a Hero <span class="badge badge-pill badge-danger">corpse</span> </li>
+<h4>Upgrade materials</h4>
+  <li data-id="playthrough_8_12"> Demon Titanite x6 <span class="badge badge-pill badge-danger">Titanite Demons - drop</span> </li>
+  <li data-id="playthrough_8_13"> Large Titanite Shard x2 <span class="badge badge-pill badge-danger">chest</span>; x4 <span class="badge badge-pill badge-danger">corpses</span> </li>
+  <li data-id="playthrough_8_14"> Titanite Chunk x2 <span class="badge badge-pill badge-danger">Giants - drop</span> </li>
+<h4>Weapons</h4>
+  <li data-id="playthrough_8_15"> Lightning Spear <span class="badge badge-pill badge-danger">Mimic - drop</span> </li>
+  <li data-id="playthrough_8_16"> Ricard's Rapier <span class="badge badge-pill badge-danger">Undead Prince Ricard - drop</span> </li>
+  <li data-id="playthrough_8_17"> Scythe <span class="badge badge-pill badge-danger">corpse</span> </li>
+  <li data-id="playthrough_8_18"> Shotel <span class="badge badge-pill badge-danger">corpse</span> </li>
+  <li data-id="playthrough_8_19"> Sniper Crossbow and Sniper Bolt x12 <span class="badge badge-pill badge-danger">corpse</span> </li>
 </ul>
 <a name="Anor_Londo"></a>
-<h3>Anor Londo<span id="checklist_totals_6"></span></h3>
+<h3>Anor Londo<span id="playthrough_totals_9"></span></h3>
 <ul>
+<h4>Armor</h4>
+  <li data-id="playthrough_9_1"> Black Iron Set <span class="badge badge-pill badge-danger">Corpse at the end of the room with the Painted World</span> </li>
+  <li data-id="playthrough_9_2"> Brass Set <span class="badge badge-pill badge-danger">In a chest in a room after Dark Sun Gwyndolin has been defeated</span> </li>
+  <li data-id="playthrough_9_3"> Favor Set <span class="badge badge-pill badge-danger">Located on a corpse above the area where Ornstein and Smough is fought, but only if Knight Lautrec of Carim has been defeated in an invasion using the Black Eye Orb</span> </li>
+  <li data-id="playthrough_9_4"> Havel's Set <span class="badge badge-pill badge-danger">Located in several chests down a hidden path after the 3rd bonfire</span> </li>
+  <li data-id="playthrough_9_5"> Silver Knight Set <span class="badge badge-pill badge-danger">In two chests guarded by two Silver Knights</span> </li>
 <h4>Keys</h4>
-  <li data-id="checklist_6_1"> Lordvessel <span class="badge badge-pill badge-danger">Gwynevere, Princess of Sunlight - Gift</span> </li>
+  <li data-id="playthrough_9_6"> Lordvessel <span class="badge badge-pill badge-danger">Gwynevere, Princess of Sunlight - Gift</span> </li>
+<h4>Miracles</h4>
+  <li data-id="playthrough_9_7"> Darkmoon Blade <span class="badge badge-pill badge-danger">Dark Sun Gwyndolin - Gift upon gaining Covenant rank</span> </li>
+  <li data-id="playthrough_9_8"> Sunlight Blade <span class="badge badge-pill badge-danger">Chest</span> </li>
+<h4>Miscellaneous</h4>
+  <li data-id="playthrough_9_9"> Blue Eye Orb <span class="badge badge-pill badge-danger">Dark Sun Gwyndolin - Gift upon joining Covenant</span> </li>
+  <li data-id="playthrough_9_10"> Gold Coin <span class="badge badge-pill badge-danger">Mimic - Drop</span> </li>
+  <li data-id="playthrough_9_11"> Silver Coin x5 <span class="badge badge-pill badge-danger">Mimic - Drop</span> </li>
+  <li data-id="playthrough_9_12"> Souvenir of Reprisal <span class="badge badge-pill badge-danger">Lautrec - Drop</span> </li>
+  <li data-id="playthrough_9_13"> Sunlight Medal x3 <span class="badge badge-pill badge-danger">Chest</span> </li>
+<h4>Rings</h4>
+  <li data-id="playthrough_9_14"> Darkmoon Blade Covenant Ring <span class="badge badge-pill badge-danger">Dark Sun Gwyndolin - Gift upon joining Covenant</span> </li>
+  <li data-id="playthrough_9_15"> Hawk Ring <span class="badge badge-pill badge-danger">Chest behind the Giant Blacksmith</span> </li>
+  <li data-id="playthrough_9_16"> Leo Ring <span class="badge badge-pill badge-danger">Dragon Slayer Ornstein - Drop</span> </li>
+  <li data-id="playthrough_9_17"> Ring of Favor and Protection <span class="badge badge-pill badge-danger">Lautrec - Drop</span> </li>
+  <li data-id="playthrough_9_18"> Ring of the Sun's Firstborn <span class="badge badge-pill badge-danger">On a corpse next to the second bonfire</span> </li>
+  <li data-id="playthrough_9_19"> Ring of the Sun Princess <span class="badge badge-pill badge-danger">Gwynevere, Princess of Sunlight - Gift upon joining Covenant</span> </li>
+  <li data-id="playthrough_9_20"> Tiny Being's Ring <span class="badge badge-pill badge-danger">Siegmeyer - Gift</span> </li>
+<h4>Sorcery</h4>
+  <li data-id="playthrough_9_21"> Great Magic Weapon <span class="badge badge-pill badge-danger">Corpse</span> </li>
+<h4>Souls</h4>
+  <li data-id="playthrough_9_22"> Fire Keeper Soul <span class="badge badge-pill badge-danger">Darkmoon Knightess - Drop</span> </li>
+  <li data-id="playthrough_9_23"> Soul of a Hero <span class="badge badge-pill badge-danger">Corpse</span> </li>
+  <li data-id="playthrough_9_24"> Soul of Gwyndolin <span class="badge badge-pill badge-danger">Dark Sun Gwyndolin - Drop</span> </li>
+  <li data-id="playthrough_9_25"> Soul of Ornstein <span class="badge badge-pill badge-danger">Dragon Slayer Ornstein - Drop</span> </li>
+  <li data-id="playthrough_9_26"> Soul of Smough <span class="badge badge-pill badge-danger">Executioner Smough - Drop</span> </li>
+<h4>Upgrade Materials</h4>
+  <li data-id="playthrough_9_27"> Demon Titanite x4 <span class="badge badge-pill badge-danger">Chests</span> </li>
+  <li data-id="playthrough_9_28"> Titanite Chunk <span class="badge badge-pill badge-danger">Corpse</span> </li>
+  <li data-id="playthrough_9_29"> Twinkling Titanite <span class="badge badge-pill badge-danger">Chest</span> </li>
+<h4>Weapons</h4>
+  <li data-id="playthrough_9_30"> Black Iron Greatshield <span class="badge badge-pill badge-danger">Corpse</span> </li>
+  <li data-id="playthrough_9_31"> Crystal Halberd <span class="badge badge-pill badge-danger">Mimic - Drop</span> </li>
+  <li data-id="playthrough_9_32"> Darkmoon Talisman <span class="badge badge-pill badge-danger">Dark Sun Gwyndolin - Gift upon gaining Covenant rank</span> </li>
+  <li data-id="playthrough_9_33"> Dragon Tooth <span class="badge badge-pill badge-danger">Chest</span> </li>
+  <li data-id="playthrough_9_34"> Dragonslayer Greatbow & Dragonslayer Arrow x1 <span class="badge badge-pill badge-danger">Corpse</span> </li>
+  <li data-id="playthrough_9_35"> Greatsword <span class="badge badge-pill badge-danger">Corpse</span> </li>
+  <li data-id="playthrough_9_36"> Havel's Greatshield <span class="badge badge-pill badge-danger">Chest - same room as Havel's set</span> </li>
+  <li data-id="playthrough_9_37"> Occult Club <span class="badge badge-pill badge-danger">Mimic - Drop</span> </li>
 </ul>
 <a name="Demon_Ruins"></a>
-<h3>Demon Ruins<span id="checklist_totals_7"></span></h3>
+<h3>Demon Ruins<span id="playthrough_totals_10"></span></h3>
+<ul>
+<h4>Armor</h4>
+  <li data-id="playthrough_10_1"> Gold-Hemmed Black Set <span class="badge badge-pill badge-danger">corpse</span> </li>
+<h4>Catalysts</h4>
+  <li data-id="playthrough_10_2"> Demon's Catalyst <span class="badge badge-pill badge-danger">Demon Firesage - drop</span> </li>
+<h4>Embers</h4>
+  <li data-id="playthrough_10_3"> Chaos Flame Ember <span class="badge badge-pill badge-danger">corpse</span> </li>
+  <li data-id="playthrough_10_4"> Large Flame Ember <span class="badge badge-pill badge-danger">chest</span> </li>
+<h4>Rings</h4>
+  <li data-id="playthrough_10_5"> Orange Charred Ring <span class="badge badge-pill badge-danger">Centipede Demon - drop or sever tail</span> </li>
+</ul>
+<a name="New_Londo_Ruins"></a>
+<h3>New Londo Ruins<span id="playthrough_totals_11"></span></h3>
+<ul>
+<h4>Embers</h4>
+  <li data-id="playthrough_11_1"> Very Large Ember <span class="badge badge-pill badge-danger">chest</span> </li>
+<h4>Keys</h4>
+  <li data-id="playthrough_11_2"> Key to the Seal <span class="badge badge-pill badge-danger">Ingward - gift upon obtaining the Lordvessel or drop</span> </li>
+<h4>Miscellaneous</h4>
+  <li data-id="playthrough_11_3"> Cracked Red Eye Orb ×6 <span class="badge badge-pill badge-danger">corpse</span> </li>
+  <li data-id="playthrough_11_4"> Humanity ×2 <span class="badge badge-pill badge-danger">corpses</span> </li>
+  <li data-id="playthrough_11_5"> Transient Curse ×6 <span class="badge badge-pill badge-danger">corpses</span> </li>
+<h4>Rings</h4>
+  <li data-id="playthrough_11_6"> Cursebite Ring <span class="badge badge-pill badge-danger">corpse</span> </li>
+  <li data-id="playthrough_11_7"> Rare Ring of Sacrifice <span class="badge badge-pill badge-danger">corpse</span> </li>
+<h4>Souls</h4>
+  <li data-id="playthrough_11_8"> Fire Keeper Soul <span class="badge badge-pill badge-danger">corpse</span> </li>
+<h4>Upgrade materials</h4>
+  <li data-id="playthrough_11_9"> Green Titanite Shard <span class="badge badge-pill badge-danger">corpse</span> </li>
+  <li data-id="playthrough_11_10"> Titanite Chunk ×2 <span class="badge badge-pill badge-danger">chests</span> </li>
+<h4>Weapons</h4>
+  <li data-id="playthrough_11_11"> Composite Bow and Large Arrow ×16 <span class="badge badge-pill badge-danger">corpse</span> </li>
+  <li data-id="playthrough_11_12"> Estoc <span class="badge badge-pill badge-danger">corpse</span> </li>
+  <li data-id="playthrough_11_13"> Parrying Dagger <span class="badge badge-pill badge-danger">corpse</span> </li>
+</ul>
+<a name="Lost_Izalith"></a>
+<h3>Lost Izalith<span id="playthrough_totals_12"></span></h3>
+<ul>
+<h4>Armor</h4>
+  <li data-id="playthrough_12_1"> Iron Set <span class="badge badge-pill badge-danger">Solaire of Astora - drop</span> </li>
+  <li data-id="playthrough_12_2"> Sunlight Maggot <span class="badge badge-pill badge-danger">Chaos Bug - drop</span> </li>
+<h4>Miscellaneous</h4>
+  <li data-id="playthrough_12_3"> Divine Blessing x2 <span class="badge badge-pill badge-danger">corpse</span> </li>
+<h4>Pyromancies</h4>
+  <li data-id="playthrough_12_4"> Chaos Fire Whip <span class="badge badge-pill badge-danger">chest</span> </li>
+<h4>Rings</h4>
+  <li data-id="playthrough_12_5"> Speckled Stoneplate Ring <span class="badge badge-pill badge-danger">Siegmeyer - gift</span> </li>
+  <li data-id="playthrough_12_6"> Rare Ring of Sacrifice <span class="badge badge-pill badge-danger">corpse</span> </li>
+<h4>Souls</h4>
+  <li data-id="playthrough_12_7"> Lord Soul <span class="badge badge-pill badge-danger">Bed of Chaos - drop</span> </li>
+  <li data-id="playthrough_12_8"> Soul of a Great Hero <span class="badge badge-pill badge-danger">chest</span> </li>
+  <li data-id="playthrough_12_9"> Soul of a Hero <span class="badge badge-pill badge-danger">corpse</span> </li>
+  <li data-id="playthrough_12_10"> Large Soul of a Brave Warrior x2 <span class="badge badge-pill badge-danger">corpse</span> </li>
+  <li data-id="playthrough_12_11"> Soul of a Brave Warrior <span class="badge badge-pill badge-danger">corpse</span> </li>
+<h4>Upgrade materials</h4>
+  <li data-id="playthrough_12_12"> Green Titanite Shard x2 <span class="badge badge-pill badge-danger">corpse</span> </li>
+  <li data-id="playthrough_12_13"> Red Titanite Chunk x2 <span class="badge badge-pill badge-danger">corpses</span> </li>
+  <li data-id="playthrough_12_14"> Red Titanite Slab <span class="badge badge-pill badge-danger">chest</span> </li>
+<h4>Weapons</h4>
+  <li data-id="playthrough_12_15"> Izalith Catalyst <span class="badge badge-pill badge-danger">Daughter of Chaos - drop</span> </li>
+  <li data-id="playthrough_12_16"> Sunlight Shield <span class="badge badge-pill badge-danger">Solaire of Astora - drop</span> </li>
+  <li data-id="playthrough_12_17"> Sunlight Straight Sword <span class="badge badge-pill badge-danger">Solaire of Astora - drop</span> </li>
+  <li data-id="playthrough_12_18"> Sunlight Talisman <span class="badge badge-pill badge-danger">Solaire of Astora - drop</span> </li>
+</ul>
+<a name="Darkroot_Basin"></a>
+<h3>Darkroot Basin<span id="playthrough_totals_13"></span></h3>
+<ul>
+<h4>Armor</h4>
+  <li data-id="playthrough_13_1"> Antiquated Set <span class="badge badge-pill badge-danger">after rescuing Dusk of Oolacile from the Golden Crystal Golem</span> </li>
+  <li data-id="playthrough_13_2"> Hunter Set <span class="badge badge-pill badge-danger">corpse - missing the headpiece</span> </li>
+  <li data-id="playthrough_13_3"> Knight Set <span class="badge badge-pill badge-danger">corpse</span> </li>
+<h4>Rings</h4>
+  <li data-id="playthrough_13_4"> Dusk Crown Ring <span class="badge badge-pill badge-danger">Hydra - drop</span> </li>
+<h4>Upgrade Materials</h4>
+  <li data-id="playthrough_13_5"> Dragon Scale - <span class="badge badge-pill badge-danger">Hydra - drop</span> </li>
+  <li data-id="playthrough_13_6"> Twinkling Titanite <span class="badge badge-pill badge-danger">Crystal Lizard - drop</span> </li>
+<h4>Weapons</h4>
+  <li data-id="playthrough_13_7"> Grass Crest Shield <span class="badge badge-pill badge-danger">corpse</span> </li>
+  <li data-id="playthrough_13_8"> Longbow & Feather Arrows ×16 <span class="badge badge-pill badge-danger">corpse</span> </li>
+</ul>
+<a name="Darkroot_Garden"></a>
+<h3>Darkroot Garden<span id="playthrough_totals_14"></span></h3>
+<ul>
+<h4>Armor</h4>
+  <li data-id="playthrough_14_1"> Eastern Set <span class="badge badge-pill badge-danger">corpse</span> </li>
+  <li data-id="playthrough_14_2"> Elite Knight Set <span class="badge badge-pill badge-danger">corpse</span> </li>
+  <li data-id="playthrough_14_3"> Pharis's Hat <span class="badge badge-pill badge-danger">Forest Hunter Archer - drop</span> </li>
+  <li data-id="playthrough_14_4"> Stone Set <span class="badge badge-pill badge-danger">chest</span> </li>
+<h4>Embers</h4>
+  <li data-id="playthrough_14_5"> Divine Ember <span class="badge badge-pill badge-danger">Divine Blacksmith statue - after the Moonlight Butterfly</span> </li>
+  <li data-id="playthrough_14_6"> Enchanted Ember <span class="badge badge-pill badge-danger">chest</span> </li>
+<h4>Keys</h4>
+  <li data-id="playthrough_14_7"> Watchtower Basement Key <span class="badge badge-pill badge-danger">Divine Blacksmith statue</span> </li>
+<h4>Miscellaneous</h4>
+  <li data-id="playthrough_14_8"> Twin Humanities <span class="badge badge-pill badge-danger">Forest Hunter Archer - drop</span> </li>
+<h4>Rings</h4>
+  <li data-id="playthrough_14_9"> Cat Covenant Ring <span class="badge badge-pill badge-danger">Alvina - Gift upon joining the Forest Hunter covenant</span> </li>
+  <li data-id="playthrough_14_10"> Covenant of Artorias <span class="badge badge-pill badge-danger">Sif - drop</span> </li>
+  <li data-id="playthrough_14_11"> Hornet Ring <span class="badge badge-pill badge-danger">corpse</span> </li>
+  <li data-id="playthrough_14_12"> Ring of Fog <span class="badge badge-pill badge-danger">Alvina - Gift upon three victories while part of the Forest Hunter covenant</span> </li>
+  <li data-id="playthrough_14_13"> Wolf Ring <span class="badge badge-pill badge-danger">corpse</span> </li>
+<h4>Souls</h4>
+  <li data-id="playthrough_14_14"> Soul of Sif <span class="badge badge-pill badge-danger">Sif - drop</span> </li>
+  <li data-id="playthrough_14_15"> Soul of the Moonlight Butterfly <span class="badge badge-pill badge-danger">Moonlight Butterfly - drop</span> </li>
+<h4>Weapons</h4>
+  <li data-id="playthrough_14_16"> Black Bow of Pharis <span class="badge badge-pill badge-danger">Forest Hunter Archer - drop</span> </li>
+  <li data-id="playthrough_14_17"> Partizan <span class="badge badge-pill badge-danger">corpse</span> </li>
+</ul>
+<a name="Valley_of_Drakes"></a>
+<h3>Valley of Drakes<span id="playthrough_totals_15"></span></h3>
+<ul>
+<h4>Armor</h4>
+  <li data-id="playthrough_15_1"> Witch Set <span class="badge badge-pill badge-danger">corpse - after defeating the Four Kings</span> </li>
+  <li data-id="playthrough_15_2"> Brigand Set <span class="badge badge-pill badge-danger">corpse</span> </li>
+<h4>Miscellaneous</h4>
+  <li data-id="playthrough_15_3"> Humanity <span class="badge badge-pill badge-danger">corpse</span> </li>
+<h4>Rings</h4>
+  <li data-id="playthrough_15_4"> Red Tearstone Ring <span class="badge badge-pill badge-danger">corpse</span> </li>
+<h4>Weapons</h4>
+  <li data-id="playthrough_15_5"> Astora's Straight Sword <span class="badge badge-pill badge-danger">corpse</span> </li>
+  <li data-id="playthrough_15_6"> Beatrice's Catalyst <span class="badge badge-pill badge-danger">corpse - along with Witch Set</span> </li>
+  <li data-id="playthrough_15_7"> Dragon Crest Shield <span class="badge badge-pill badge-danger">corpse</span> </li>
+  <li data-id="playthrough_15_8"> Spider Shield <span class="badge badge-pill badge-danger">corpse</span> </li>
+</ul>
+<a name="Catacombs"></a>
+<h3>Catacombs<span id="playthrough_totals_16"></span></h3>
+<ul>
+<h4>Armor</h4>
+  <li data-id="playthrough_16_1"> Holy Set <span class="badge badge-pill badge-danger">corpse</span> </li>
+  <li data-id="playthrough_16_2"> Mask of the Father or Mask of the Mother or Mask of the Child <span class="badge badge-pill badge-danger">Pinwheel - drop</span> </li>
+<h4>Miracles</h4>
+  <li data-id="playthrough_16_3"> Tranquil Walk of Peace <span class="badge badge-pill badge-danger">corpse</span> </li>
+<h4>Miscellaneous</h4>
+  <li data-id="playthrough_16_4"> Eye of Death x3 <span class="badge badge-pill badge-danger">corpse</span> </li>
+  <li data-id="playthrough_16_5"> Rite of Kindling <span class="badge badge-pill badge-danger">Pinwheel - drop</span> </li>
+  <li data-id="playthrough_16_6"> Skull Lantern <span class="badge badge-pill badge-danger">corpse and Necromancer - drop</span> </li>
+<h4>Rings</h4>
+  <li data-id="playthrough_16_7"> Darkmoon Seance Ring <span class="badge badge-pill badge-danger">corpse</span> </li>
+<h4>Upgrade materials</h4>
+  <li data-id="playthrough_16_8"> Demon Titanite <span class="badge badge-pill badge-danger">Titanite Demon - drop</span> </li>
+  <li data-id="playthrough_16_9"> Green Titanite Shard <span class="badge badge-pill badge-danger">corpse</span> </li>
+  <li data-id="playthrough_16_10"> White Titanite Chunk <span class="badge badge-pill badge-danger">Black Knight - drop</span> </li>
+<h4>Weapons</h4>
+  <li data-id="playthrough_16_11"> Great Scythe <span class="badge badge-pill badge-danger">corpse</span> </li>
+  <li data-id="playthrough_16_12"> Lucerne <span class="badge badge-pill badge-danger">corpse</span> </li>
+  <li data-id="playthrough_16_13"> Mace <span class="badge badge-pill badge-danger">corpse</span> </li>
+</ul>
+<a name="Tomb_of_the_Giants"></a>
+<h3>Tomb of the Giants<span id="playthrough_totals_17"></span></h3>
+<ul>
+<h4>Armor</h4>
+  <li data-id="playthrough_17_1"> Paladin Set <span class="badge badge-pill badge-danger">corpse - defeat Paladin Leeroy as a Red Phantom, found on a corpse in the Nito staging area</span> </li>
+<h4>Embers</h4>
+  <li data-id="playthrough_17_2"> Large Divine Ember <span class="badge badge-pill badge-danger">Divine Blacksmith Statue</span> </li>
+<h4>Miracles</h4>
+  <li data-id="playthrough_17_3"> Replenishment <span class="badge badge-pill badge-danger">Reah - gift</span> </li>
+<h4>Miscellaneous</h4>
+  <li data-id="playthrough_17_4"> Humanity <span class="badge badge-pill badge-danger">corpse</span> </li>
+  <li data-id="playthrough_17_5"> Eye of Death x3 <span class="badge badge-pill badge-danger">corpse</span> </li>
+<h4>Rings</h4>
+  <li data-id="playthrough_17_6"> Covetous Silver Serpent Ring <span class="badge badge-pill badge-danger">corpse</span> </li>
+<h4>Souls</h4>
+  <li data-id="playthrough_17_7"> Lord Soul <span class="badge badge-pill badge-danger">Gravelord Nito - drop</span> </li>
+  <li data-id="playthrough_17_8"> Soul of a Hero x2 <span class="badge badge-pill badge-danger">corpses</span> </li>
+<h4>Upgrade materials</h4>
+  <li data-id="playthrough_17_9"> White Titanite Chunk <span class="badge badge-pill badge-danger">Black Knight - drop</span> </li>
+  <li data-id="playthrough_17_10"> White Titanite Chunk x3 <span class="badge badge-pill badge-danger">corpses</span> </li>
+  <li data-id="playthrough_17_11"> White Titanite Slab <span class="badge badge-pill badge-danger">corpse</span> </li>
+<h4>Weapons</h4>
+  <li data-id="playthrough_17_12"> Effigy Shield <span class="badge badge-pill badge-danger">corpse</span> </li>
+  <li data-id="playthrough_17_13"> Grant <span class="badge badge-pill badge-danger">Paladin Leeroy - drop</span> </li>
+  <li data-id="playthrough_17_14"> Sanctus <span class="badge badge-pill badge-danger">Paladin Leeroy - drop</span> </li>
+  <li data-id="playthrough_17_15"> Skull Lantern <span class="badge badge-pill badge-danger">corpse</span> </li>
+</ul>
+<a name="The_Duke's_Archives"></a>
+<h3>The Duke's Archives<span id="playthrough_totals_18"></span></h3>
+<ul>
+<h4>Armor</h4>
+  <li data-id="playthrough_18_1"> Big Hat's Set <span class="badge badge-pill badge-danger">chest - after killing insane Big Hat Logan</span> </li>
+  <li data-id="playthrough_18_2"> Channeler's Set <span class="badge badge-pill badge-danger">chest</span> </li>
+  <li data-id="playthrough_18_3"> Crystalline Set <span class="badge badge-pill badge-danger">corpse</span> </li>
+  <li data-id="playthrough_18_4"> Maiden Set <span class="badge badge-pill badge-danger">corpse</span> </li>
+<h4>Embers</h4>
+  <li data-id="playthrough_18_5"> Crystal Ember <span class="badge badge-pill badge-danger">chest</span> </li>
+  <li data-id="playthrough_18_6"> Large Magic Ember <span class="badge badge-pill badge-danger">after defeating Seath the Scaleless</span> </li>
+<h4>Keys</h4>
+  <li data-id="playthrough_18_7"> Archive Tower Giant Door Key <span class="badge badge-pill badge-danger">chest</span> </li>
+  <li data-id="playthrough_18_8"> Archive Prison Extra Key <span class="badge badge-pill badge-danger">corpse</span> </li>
+  <li data-id="playthrough_18_9"> Archive Tower Cell Key <span class="badge badge-pill badge-danger">Serpent Soldier drop</span> </li>
+  <li data-id="playthrough_18_10"> Archive Tower Giant Cell Key <span class="badge badge-pill badge-danger">chest</span> </li>
+<h4>Miracles</h4>
+  <li data-id="playthrough_18_11"> Bountiful Sunlight <span class="badge badge-pill badge-danger">Pisaca drop</span> </li>
+  <li data-id="playthrough_18_12"> Soothing Sunlight <span class="badge badge-pill badge-danger">Pisaca drop</span> </li>
+<h4>Miscellaneous</h4>
+  <li data-id="playthrough_18_13"> Prism Stone x20 <span class="badge badge-pill badge-danger">chest</span> </li>
+<h4>Rings</h4>
+  <li data-id="playthrough_18_14"> White Seance Ring <span class="badge badge-pill badge-danger">corpse</span> </li>
+<h4>Sorceries</h4>
+  <li data-id="playthrough_18_15"> Strong Magic Shield <span class="badge badge-pill badge-danger">chest</span> </li>
+  <li data-id="playthrough_18_16"> White Dragon Breath <span class="badge badge-pill badge-danger">insane Big Hat Logan drop</span> </li>
+<h4>Souls</h4>
+  <li data-id="playthrough_18_17"> Fire Keeper Soul <span class="badge badge-pill badge-danger">corpse</span> </li>
+<h4>Upgrade materials</h4>
+  <li data-id="playthrough_18_18"> Blue Titanite Chunk x2 <span class="badge badge-pill badge-danger">corpses</span> </li>
+  <li data-id="playthrough_18_19"> Twinkling Titanite x3 <span class="badge badge-pill badge-danger">chests</span> </li>
+<h4>Weapons</h4>
+  <li data-id="playthrough_18_20"> Crystal Knight Shield <span class="badge badge-pill badge-danger">Mimic</span> </li>
+  <li data-id="playthrough_18_21"> Enchanted Falchion <span class="badge badge-pill badge-danger">Mimic</span> </li>
+  <li data-id="playthrough_18_22"> Tin Crystallization Catalyst <span class="badge badge-pill badge-danger">insane Big Hat Logan drop</span> </li>
+  <li data-id="playthrough_18_23"> Logan's Catalyst <span class="badge badge-pill badge-danger">chest - after killing insane Big Hat Logan</span> </li>
+  <li data-id="playthrough_18_24"> Avelyn <span class="badge badge-pill badge-danger">chest</span> </li>
+</ul>
+<a name="Crystal_Cave"></a>
+<h3>Crystal Cave<span id="playthrough_totals_19"></span></h3>
+<ul>
+<h4>Souls</h4>
+  <li data-id="playthrough_19_1"> Bequeathed Lord Soul Shard <span class="badge badge-pill badge-danger">Seath the Scaleless - drop</span> </li>
+  <li data-id="playthrough_19_2"> Soul of a Hero <span class="badge badge-pill badge-danger">corpse</span> </li>
+<h4>Upgrade Materials</h4>
+  <li data-id="playthrough_19_3"> Blue Titanite Slab <span class="badge badge-pill badge-danger">corpse</span> </li>
+  <li data-id="playthrough_19_4"> Twinkling Titanite <span class="badge badge-pill badge-danger">Crystal Lizard - drop</span> </li>
+</ul>
+<a name="Undead_Asylum_Revisited"></a>
+<h3>Undead Asylum Revisited<span id="playthrough_totals_20"></span></h3>
+<ul>
+<h4>Keys</h4>
+  <li data-id="playthrough_20_1"> Peculiar Doll <span class="badge badge-pill badge-danger">corpse - Guarded by a Black Knight</span> </li>
+<h4>Rings</h4>
+  <li data-id="playthrough_20_2"> Rusted Iron Ring <span class="badge badge-pill badge-danger">corpse</span> </li>
+<h4>Upgrade Materials</h4>
+  <li data-id="playthrough_20_3"> Red Titanite Chunk <span class="badge badge-pill badge-danger">Black Knight - drop</span> </li>
+  <li data-id="playthrough_20_4"> Titanite Slab <span class="badge badge-pill badge-danger">Stray Demon - drop</span> </li>
+<h4>Weapons</h4>
+  <li data-id="playthrough_20_5"> Crest Shield <span class="badge badge-pill badge-danger">Oscar, Knight of Astora - drop</span> </li>
+</ul>
+<a name="Painted_World_of_Ariamis"></a>
+<h3>Painted World of Ariamis<span id="playthrough_totals_21"></span></h3>
+<ul>
+<h4>Armor</h4>
+  <li data-id="playthrough_21_1"> Black Set <span class="badge badge-pill badge-danger">corpse</span> </li>
+  <li data-id="playthrough_21_2"> Painting Guardian Set <span class="badge badge-pill badge-danger">chest</span> </li>
+  <li data-id="playthrough_21_3"> Xanthous Set <span class="badge badge-pill badge-danger">corpse - if defeated Jeremiah</span> </li>
+<h4>Embers</h4>
+  <li data-id="playthrough_21_4"> Dark Ember <span class="badge badge-pill badge-danger">blacksmith's statue - in the Annex</span> </li>
+<h4>Keys</h4>
+  <li data-id="playthrough_21_5"> Annex Key <span class="badge badge-pill badge-danger">corpse</span> </li>
+<h4>Miracles</h4>
+  <li data-id="playthrough_21_6"> Vow of Silence <span class="badge badge-pill badge-danger">corpse</span> </li>
+<h4>Miscellaneous</h4>
+  <li data-id="playthrough_21_7"> Dried Finger <span class="badge badge-pill badge-danger">corpse, replaced by a Twin Humanities in Dark Souls Remastered</span> </li>
+  <li data-id="playthrough_21_8"> Egg Vermifuge <span class="badge badge-pill badge-danger">corpse</span> </li>
+  <li data-id="playthrough_21_9"> Gold Coin <span class="badge badge-pill badge-danger">corpse</span> </li>
+  <li data-id="playthrough_21_10"> Humanity <span class="badge badge-pill badge-danger">corpse</span> </li>
+  <li data-id="playthrough_21_11"> Red Sign Soapstone <span class="badge badge-pill badge-danger">corpse</span> </li>
+<h4>Pyromancies</h4>
+  <li data-id="playthrough_21_12"> Acid Surge <span class="badge badge-pill badge-danger">corpse</span> </li>
+  <li data-id="playthrough_21_13"> Fire Surge <span class="badge badge-pill badge-danger">Engorged Zombie - drop</span> </li>
+<h4>Rings</h4>
+  <li data-id="playthrough_21_14"> Ring of Sacrifice <span class="badge badge-pill badge-danger">corpse</span> </li>
+<h4>Souls</h4>
+  <li data-id="playthrough_21_15"> Soul of Priscilla <span class="badge badge-pill badge-danger">Priscilla - drop</span> </li>
+<h4>Upgrade materials</h4>
+  <li data-id="playthrough_21_16"> Dragon Scale <span class="badge badge-pill badge-danger">Undead Dragon - drop</span> </li>
+<h4>Weapons</h4>
+  <li data-id="playthrough_21_17"> Bloodshield <span class="badge badge-pill badge-danger">corpse</span> </li>
+  <li data-id="playthrough_21_18"> Notched Whip <span class="badge badge-pill badge-danger">Jeremiah - drop</span> </li>
+  <li data-id="playthrough_21_19"> Priscilla's Dagger <span class="badge badge-pill badge-danger">Priscilla - sever tail</span> </li>
+  <li data-id="playthrough_21_20"> Velka's Rapier <span class="badge badge-pill badge-danger">corpse</span> </li>
+</ul>
+<a name="The_Great_Hollow"></a>
+<h3>The Great Hollow<span id="playthrough_totals_22"></span></h3>
 <ul>
 <h4>Rings</h4>
-  <li data-id="checklist_7_1"> Orange Charred Ring <span class="badge badge-pill badge-danger">Centipede Demon - drop or sever tail</span> </li>
+  <li data-id="playthrough_22_1"> Cloranthy Ring <span class="badge badge-pill badge-danger">found on a corpse inside a tree</span> </li>
+<h4>Upgrade materials</h4>
+  <li data-id="playthrough_22_2"> Blue Titanite Chunk x2 <span class="badge badge-pill badge-danger">corpses</span> </li>
+  <li data-id="playthrough_22_3"> Red Titanite Chunk x2 <span class="badge badge-pill badge-danger">corpses</span> </li>
+  <li data-id="playthrough_22_4"> Titanite Chunk <span class="badge badge-pill badge-danger">corpse</span> </li>
+  <li data-id="playthrough_22_5"> White Titanite Chunk <span class="badge badge-pill badge-danger">corpse</span> </li>
+  <li data-id="playthrough_22_6"> Twinkling Titanite x10 <span class="badge badge-pill badge-danger">Crystal Lizards</span> </li>
+<h4>Miscellaneous</h4>
+  <li data-id="playthrough_22_7"> Large Soul of a Nameless Soldier x2 <span class="badge badge-pill badge-danger">corpses</span> </li>
+</ul>
+<a name="Ash_Lake"></a>
+<h3>Ash Lake<span id="playthrough_totals_23"></span></h3>
+<ul>
+<h4>Miracles</h4>
+  <li data-id="playthrough_23_1"> Great Magic Barrier <span class="badge badge-pill badge-danger">Corpse</span> </li>
+<h4>Miscellaneous</h4>
+  <li data-id="playthrough_23_2"> Dragon Eye <span class="badge badge-pill badge-danger">Stone Dragon - Gift upon joining covenant</span> </li>
+  <li data-id="playthrough_23_3"> Dragon Headstone <span class="badge badge-pill badge-danger">Stone Dragon - Gift upon joining covenant</span> </li>
+  <li data-id="playthrough_23_4"> Dragon Torso Stone <span class="badge badge-pill badge-danger">Stone Dragon - Gift upon reaching level 2 of covenant</span> </li>
+<h4>Upgrade Materials</h4>
+  <li data-id="playthrough_23_5"> Dragon Scale x3 <span class="badge badge-pill badge-danger">Corpses</span>; x2 <span class="badge badge-pill badge-danger">Hydra - Drop</span> </li>
+  <li data-id="playthrough_23_6"> Titanite Slab <span class="badge badge-pill badge-danger">Sieglinde of Catarina - Gift for Siegmeyer's questline</span> </li>
+<h4>Weapons</h4>
+  <li data-id="playthrough_23_7"> Dragon Greatsword <span class="badge badge-pill badge-danger">Stone Dragon - Sever tail</span> </li>
+</ul>
+<a name="Kiln_of_the_First_Flame"></a>
+<h3>Kiln of the First Flame<span id="playthrough_totals_24"></span></h3>
+<ul>
+<h4>Armor</h4>
+  <li data-id="playthrough_24_1"> Black Knight Set <span class="badge badge-pill badge-danger">corpse</span> </li>
+<h4>Upgrade materials</h4>
+  <li data-id="playthrough_24_2"> Blue Titanite Chunk <span class="badge badge-pill badge-danger">halberd Black Knight drop</span> </li>
+  <li data-id="playthrough_24_3"> Red Titanite Chunk <span class="badge badge-pill badge-danger">greatsword Black Knight drop</span> </li>
+  <li data-id="playthrough_24_4"> Titanite Chunk <span class="badge badge-pill badge-danger">sword Black Knight drop</span> </li>
+  <li data-id="playthrough_24_5"> White Titanite Chunk <span class="badge badge-pill badge-danger">greataxe Black Knight drop</span> </li>
+<h4>Weapons</h4>
+  <li data-id="playthrough_24_6"> All Black Knight weapons <span class="badge badge-pill badge-danger">drops from the various Black Knights in the area</span> </li>
+  <li data-id="playthrough_24_7"> Black Knight Shield <span class="badge badge-pill badge-danger">Black Knight drop</span> </li>
 </ul>
