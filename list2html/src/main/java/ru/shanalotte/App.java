@@ -6,15 +6,15 @@ import java.util.List;
 
 public class App
 {
-    public static void main( String[] args )
-    {
+
+    public static void generateListWithPrefix(String prefix){
         try {
             BufferedReader in = new BufferedReader(new InputStreamReader(new FileInputStream("list.txt")));
             BufferedWriter out = new BufferedWriter(new OutputStreamWriter(new FileOutputStream("list_formatted.txt")));
 
             List<String> headerStrings = new ArrayList<>();
 
-            headerStrings.add("<h2>Playthrough Checklist <span id=\"playthrough_overall_total\"></span></h2>");
+            headerStrings.add("<h2>Playthrough Checklist <span id=\"" + prefix + "_overall_total\"></span></h2>");
             headerStrings.add("<ul>");
 
             List<String> contentStrings = new ArrayList<>();
@@ -41,11 +41,11 @@ public class App
 
                     String locationName = line.substring(1, line.length() - 1);
                     line = line.replace("[", "<h3>");
-                    line = line.replace("]", "<span id=\"playthrough_totals_" + categoryIndex + "\"></span></h3>");
+                    line = line.replace("]", "<span id=\"" + prefix + "_totals_" + categoryIndex + "\"></span></h3>");
                     contentStrings.add("<a name=\"" + locationName.replace(" ", "_") + "\"></a>");
                     contentStrings.add(line);
                     contentStrings.add("<ul>");
-                    headerStrings.add("<li><a href=\"#" + locationName.replace(" ", "_")+ "\">" + locationName + "</a><span id=\"playthrough_nav_totals_" + categoryIndex + "\"></span></li>");
+                    headerStrings.add("<li><a href=\"#" + locationName.replace(" ", "_")+ "\">" + locationName + "</a><span id=\""+ prefix + "_nav_totals_" + categoryIndex + "\"></span></li>");
                 }
                 else
                 {
@@ -55,7 +55,7 @@ public class App
                     }
                     else
                     {
-                        String l = "  <li data-id=\"playthrough_" + categoryIndex + "_" + itemIndex + "\"> " + line + " </li>";
+                        String l = "  <li data-id=\"" + prefix + "_" + categoryIndex + "_" + itemIndex + "\"> " + line + " </li>";
                         if (l.contains("(")){
                             l = l.replace("(", "<span class=\"badge badge-pill badge-danger\">");
                             l = l.replace(")", "</span>");
@@ -83,5 +83,11 @@ public class App
         } catch (IOException e) {
             e.printStackTrace();
         }
+    }
+
+    public static void main( String[] args )
+    {
+        //generateListWithPrefix("playthrough");
+        generateListWithPrefix("checklist");
     }
 }

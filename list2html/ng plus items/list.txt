@@ -1,0 +1,641 @@
+[Firelink Shrine]
+
+Armor
+Dingy Set (Anastacia of Astora - corpse)
+
+Keys
+Undead Asylum F2 West Key (corpse)
+
+Miracles
+Emit Force (Siegmeyer: gift)
+
+Miscellaneous
+Binoculars (corpse)
+Black Eye Orb (Anastacia of Astora: corpse)
+Copper Coin (Petrus of Thorolund: gift)
+Cracked Red Eye Orb x4 (chest)
+Firebomb x6 (corpse)
+Homeward Bone x6 (chest)
+Humanity x3 (corpse)
+Lloyd's Talisman x4 (chest)
+Sunlight Medal (Lautrec: gift)
+
+Rings
+Ring of Sacrifice (corpse)
+
+Weapons
+Caduceus Round Shield (corpse)
+Morning Star (chest)
+Pyromancy Flame (Laurentius: gift)
+Talisman (chest)
+Winged Spear (corpse)
+Zweihander (corpse)
+
+[Upper Undead Burg]
+
+Miscellaneous
+Black Firebomb ×5 (chest)
+Gold Pine Resin ×3 (chest)
+Humanity (corpse)
+Rubbish (corpse)
+Throwing Knife ×10 (corpse)
+White Sign Soapstone (Solaire of Astora - gift)
+
+Rings
+Blue Tearstone Ring (corpse - guarded by a Black Knight)
+
+Upgrade materials
+Titanite Chunk (Black Knight - drop)
+
+Weapons
+Drake Sword (Hellkite Dragon - sever tail)
+Light Crossbow and Standard Bolt ×16 (corpse)
+Uchigatana (Undead Male Merchant - drop)
+Wooden Shield (corpse)
+
+[Lower Undead Burg]
+
+Armor
+Sorcerer Set (corpse)
+Thief Set (corpse)
+
+Keys
+Key to Depths (Capra Demon - drop)
+
+Miscellaneous
+Twin Humanities (corpse)
+
+Weapons
+Mail Breaker (corpse)
+Sorcerer's Catalyst (corpse)
+Target Shield (corpse)
+
+[Undead Parish]
+
+Keys
+Mystery Key (corpse)
+Basement Key (corpse)
+
+Miscellaneous
+Alluring Skull ×4 (corpse)
+Humanity (corpse)
+Sunlight Medal (Bell Gargoyles - drop if Solaire is present)
+
+Upgrade materials
+Demon Titanite (Titanite Demon - drop)
+Titanite Shard (Berenike Knight - drop)
+
+Souls
+Fire Keeper Soul (corpse)
+
+Weapons
+Gargoyle Tail Axe (Bell Gargoyles - sever tail)
+Halberd (corpse)
+Knight Shield (corpse)
+
+[Depths]
+
+Armor
+Sack (Butcher drop)
+Warrior Set (corpse)
+
+Embers
+Large Ember (chest)
+
+Keys
+Blighttown Key (Gaping Dragon drop)
+Sewer Chamber Key (corpse)
+
+Miscellaneous
+Humanity (corpse)
+
+Rings
+Ring of the Evil Eye (corpse)
+
+Upgrade Materials
+Large Titanite Shard (corpse)
+
+Weapons
+Dragon King Greataxe (Gaping Dragon - sever tail)
+Greataxe (corpse)
+Heavy Crossbow and Heavy Bolt ×11 (corpse)
+Spider Shield (corpse)
+
+[Blighttown]
+
+Armor
+Crimson Set (corpse)
+Tattered Cloth Set (corpse)
+Shadow Set (corpse)
+Wanderer Set (corpse)
+
+Keys
+Key to New Londo Ruins (chest)
+
+Pyromancies
+Fire Tempest (Quelana - gift or drop)
+Poison Mist (corpse)
+Power Within (corpse)
+
+Sorceries
+Remedy (chest)
+
+Miscellaneous
+Blooming Purple Moss Clump ×3 (corpse)
+Fire Keeper Soul (corpse)
+Twin Humanities (chest)
+Various souls items
+
+Upgrade materials
+Dragon Scale (chest)
+Green Titanite Shard (corpse)
+Large Titanite Shard ×2 (corpses)
+
+Weapons
+Butcher Knife (Maneater Mildred - drop)
+Eagle Shield (corpse)
+Falchion (corpse)
+Great Club (corpse)
+Iaito (corpse)
+Pierce Shield (Siegmeyer - gift)
+Plank Shield (corpse)
+Server (corpse)
+Tin Banishment Catalyst (corpse)
+Whip (corpse)
+
+[Quelaag's Domain]
+
+Armor
+Set of Thorns (corpse - appears only after defeating Kirk, Knight of Thorns in all three encounters)
+
+Miscellaneous
+Egg Vermifuge (Eingyi - gift if infected with the Egghead status effect)
+
+Pyromancies
+Chaos Storm (Quelaag's Sister - gift upon reaching +2 covenant rank)
+Great Chaos Fireball (Quelaag's Sister - gift upon joining covenant)
+
+Souls
+Fire Keeper Soul (Quelaag's Sister - drop)
+Soul of Quelaag (Quelaag - drop)
+
+[Sen Fortress]
+
+Armor
+Black Sorcerer Set (corpse)
+
+Keys
+Cage Key (corpse)
+
+Miscellaneous
+Divine Blessing (chest)
+
+Rings
+Covetous Gold Serpent Ring (corpse)
+Flame Stoneplate Ring (chest)
+Rare Ring of Sacrifice (chest)
+Ring of Steel Protection (chest)
+Slumbering Dragoncrest Ring (corpse)
+
+Sorceries
+Hush (corpse)
+
+Souls
+Core of an Iron Golem (drop)
+Soul of a Hero (corpse)
+
+Upgrade materials
+Demon Titanite x6 (Titanite Demons - drop)
+Large Titanite Shard x2 (chest); x4 (corpses)
+Titanite Chunk x2 (Giants - drop)
+
+Weapons
+Lightning Spear (Mimic - drop)
+Ricard's Rapier (Undead Prince Ricard - drop)
+Scythe (corpse)
+Shotel (corpse)
+Sniper Crossbow and Sniper Bolt x12 (corpse)
+
+[Anor Londo]
+
+Armor
+Black Iron Set (Corpse at the end of the room with the Painted World)
+Brass Set (In a chest in a room after Dark Sun Gwyndolin has been defeated)
+Favor Set (Located on a corpse above the area where Ornstein and Smough is fought, but only if Knight Lautrec of Carim has been defeated in an invasion using the Black Eye Orb)
+Havel's Set (Located in several chests down a hidden path after the 3rd bonfire)
+Silver Knight Set (In two chests guarded by two Silver Knights)
+
+Keys
+Lordvessel (Gwynevere, Princess of Sunlight - Gift)
+
+Miracles
+Darkmoon Blade (Dark Sun Gwyndolin - Gift upon gaining Covenant rank)
+Sunlight Blade (Chest)
+
+Miscellaneous
+Blue Eye Orb (Dark Sun Gwyndolin - Gift upon joining Covenant)
+Gold Coin (Mimic - Drop)
+Silver Coin x5 (Mimic - Drop)
+Souvenir of Reprisal (Lautrec - Drop)
+Sunlight Medal x3 (Chest)
+
+Rings
+Darkmoon Blade Covenant Ring (Dark Sun Gwyndolin - Gift upon joining Covenant)
+Hawk Ring (Chest behind the Giant Blacksmith)
+Leo Ring (Dragon Slayer Ornstein - Drop)
+Ring of Favor and Protection (Lautrec - Drop)
+Ring of the Sun's Firstborn (On a corpse next to the second bonfire)
+Ring of the Sun Princess (Gwynevere, Princess of Sunlight - Gift upon joining Covenant)
+Tiny Being's Ring (Siegmeyer - Gift)
+
+Sorcery
+Great Magic Weapon (Corpse)
+
+Souls
+Fire Keeper Soul (Darkmoon Knightess - Drop)
+Soul of a Hero (Corpse)
+Soul of Gwyndolin (Dark Sun Gwyndolin - Drop)
+Soul of Ornstein (Dragon Slayer Ornstein - Drop)
+Soul of Smough (Executioner Smough - Drop)
+
+Upgrade Materials
+Demon Titanite x4 (Chests)
+Titanite Chunk (Corpse)
+Twinkling Titanite (Chest)
+
+Weapons
+Black Iron Greatshield (Corpse)
+Crystal Halberd (Mimic - Drop)
+Darkmoon Talisman (Dark Sun Gwyndolin - Gift upon gaining Covenant rank)
+Dragon Tooth (Chest)
+Dragonslayer Greatbow & Dragonslayer Arrow x1 (Corpse)
+Greatsword (Corpse)
+Havel's Greatshield (Chest - same room as Havel's set)
+Occult Club (Mimic - Drop)
+
+[Demon Ruins]
+
+Armor
+Gold-Hemmed Black Set (corpse)
+
+Catalysts
+Demon's Catalyst (Demon Firesage - drop)
+
+Embers
+Chaos Flame Ember (corpse)
+Large Flame Ember (chest)
+
+Rings
+Orange Charred Ring (Centipede Demon - drop or sever tail)
+
+[New Londo Ruins]
+
+Embers
+Very Large Ember (chest)
+
+Keys
+Key to the Seal (Ingward - gift upon obtaining the Lordvessel or drop)
+
+Miscellaneous
+Cracked Red Eye Orb ×6 (corpse)
+Humanity ×2 (corpses)
+Transient Curse ×6 (corpses)
+
+Rings
+Cursebite Ring (corpse)
+Rare Ring of Sacrifice (corpse)
+
+Souls
+Fire Keeper Soul (corpse)
+
+Upgrade materials
+Green Titanite Shard (corpse)
+Titanite Chunk ×2 (chests)
+
+Weapons
+Composite Bow and Large Arrow ×16 (corpse)
+Estoc (corpse)
+Parrying Dagger (corpse)
+
+[Lost Izalith]
+
+Armor
+Iron Set (Solaire of Astora - drop)
+Sunlight Maggot (Chaos Bug - drop)
+
+Miscellaneous
+Divine Blessing x2 (corpse)
+
+Pyromancies
+Chaos Fire Whip (chest)
+
+Rings
+Speckled Stoneplate Ring (Siegmeyer - gift)
+Rare Ring of Sacrifice (corpse)
+
+Souls
+Lord Soul (Bed of Chaos - drop)
+Soul of a Great Hero (chest)
+Soul of a Hero (corpse)
+Large Soul of a Brave Warrior x2 (corpse)
+Soul of a Brave Warrior (corpse)
+
+Upgrade materials
+Green Titanite Shard x2 (corpse)
+Red Titanite Chunk x2 (corpses)
+Red Titanite Slab (chest)
+
+Weapons
+Izalith Catalyst (Daughter of Chaos - drop)
+Sunlight Shield (Solaire of Astora - drop)
+Sunlight Straight Sword (Solaire of Astora - drop)
+Sunlight Talisman (Solaire of Astora - drop)
+
+[Darkroot Basin]
+
+Armor
+Antiquated Set (after rescuing Dusk of Oolacile from the Golden Crystal Golem)
+Hunter Set (corpse - missing the headpiece)
+Knight Set (corpse)
+
+Rings
+Dusk Crown Ring (Hydra - drop)
+
+Upgrade Materials
+Dragon Scale - (Hydra - drop)
+Twinkling Titanite (Crystal Lizard - drop)
+
+Weapons
+Grass Crest Shield (corpse)
+Longbow & Feather Arrows ×16 (corpse)
+
+[Darkroot Garden]
+
+Armor
+Eastern Set (corpse)
+Elite Knight Set (corpse)
+Pharis's Hat (Forest Hunter Archer - drop)
+Stone Set (chest)
+
+Embers
+Divine Ember (Divine Blacksmith statue - after the Moonlight Butterfly)
+Enchanted Ember (chest)
+
+Keys
+Watchtower Basement Key (Divine Blacksmith statue)
+
+Miscellaneous
+Twin Humanities (Forest Hunter Archer - drop)
+
+Rings
+Cat Covenant Ring (Alvina - Gift upon joining the Forest Hunter covenant)
+Covenant of Artorias (Sif - drop)
+Hornet Ring (corpse)
+Ring of Fog (Alvina - Gift upon three victories while part of the Forest Hunter covenant)
+Wolf Ring (corpse)
+
+Souls
+Soul of Sif (Sif - drop)
+Soul of the Moonlight Butterfly (Moonlight Butterfly - drop)
+
+Weapons
+Black Bow of Pharis (Forest Hunter Archer - drop)
+Partizan (corpse)
+
+[Valley of Drakes]
+
+Armor
+Witch Set (corpse - after defeating the Four Kings)
+Brigand Set (corpse)
+
+Miscellaneous
+Humanity (corpse)
+
+Rings
+Red Tearstone Ring (corpse)
+
+Weapons
+Astora's Straight Sword (corpse)
+Beatrice's Catalyst (corpse - along with Witch Set)
+Dragon Crest Shield (corpse)
+Spider Shield (corpse)
+
+[Catacombs]
+
+Armor
+Holy Set (corpse)
+Mask of the Father or Mask of the Mother or Mask of the Child (Pinwheel - drop)
+
+Miracles
+Tranquil Walk of Peace (corpse)
+
+Miscellaneous
+Eye of Death x3 (corpse)
+Rite of Kindling (Pinwheel - drop)
+Skull Lantern (corpse and Necromancer - drop)
+
+Rings
+Darkmoon Seance Ring (corpse)
+
+Upgrade materials
+Demon Titanite (Titanite Demon - drop)
+Green Titanite Shard (corpse)
+White Titanite Chunk (Black Knight - drop)
+
+Weapons
+Great Scythe (corpse)
+Lucerne (corpse)
+Mace (corpse)
+
+[Tomb of the Giants]
+
+Armor
+Paladin Set (corpse - defeat Paladin Leeroy as a Red Phantom, found on a corpse in the Nito staging area)
+
+Embers
+Large Divine Ember (Divine Blacksmith Statue)
+
+Miracles
+Replenishment (Reah - gift)
+
+Miscellaneous
+Humanity (corpse)
+Eye of Death x3 (corpse)
+
+Rings
+Covetous Silver Serpent Ring (corpse)
+
+Souls
+Lord Soul (Gravelord Nito - drop)
+Soul of a Hero x2 (corpses)
+
+Upgrade materials
+White Titanite Chunk (Black Knight - drop)
+White Titanite Chunk x3 (corpses)
+White Titanite Slab (corpse)
+
+Weapons
+Effigy Shield (corpse)
+Grant (Paladin Leeroy - drop)
+Sanctus (Paladin Leeroy - drop)
+Skull Lantern (corpse)
+
+[The Duke's Archives]
+
+Armor
+Big Hat's Set (chest - after killing insane Big Hat Logan)
+Channeler's Set (chest)
+Crystalline Set (corpse)
+Maiden Set (corpse)
+
+Embers
+Crystal Ember (chest)
+Large Magic Ember (after defeating Seath the Scaleless)
+
+Keys
+Archive Tower Giant Door Key (chest)
+Archive Prison Extra Key (corpse)
+Archive Tower Cell Key (Serpent Soldier drop)
+Archive Tower Giant Cell Key (chest)
+
+Miracles
+Bountiful Sunlight (Pisaca drop)
+Soothing Sunlight (Pisaca drop)
+
+Miscellaneous
+Prism Stone x20 (chest)
+
+Rings
+White Seance Ring (corpse)
+
+Sorceries
+Strong Magic Shield (chest)
+White Dragon Breath (insane Big Hat Logan drop)
+
+Souls
+Fire Keeper Soul (corpse)
+
+Upgrade materials
+Blue Titanite Chunk x2 (corpses)
+Twinkling Titanite x3 (chests)
+
+Weapons
+Crystal Knight Shield (Mimic)
+Enchanted Falchion (Mimic)
+Tin Crystallization Catalyst (insane Big Hat Logan drop)
+Logan's Catalyst (chest - after killing insane Big Hat Logan)
+Avelyn (chest)
+
+[Crystal Cave]
+
+Souls
+Bequeathed Lord Soul Shard (Seath the Scaleless - drop)
+Soul of a Hero (corpse)
+
+Upgrade Materials
+Blue Titanite Slab (corpse)
+Twinkling Titanite (Crystal Lizard - drop)
+
+[Undead Asylum Revisited]
+
+Keys
+Peculiar Doll (corpse - Guarded by a Black Knight)
+
+Rings
+Rusted Iron Ring (corpse)
+
+Upgrade Materials
+Red Titanite Chunk (Black Knight - drop)
+Titanite Slab (Stray Demon - drop)
+
+Weapons
+Crest Shield (Oscar, Knight of Astora - drop)
+
+[Painted World of Ariamis]
+
+Armor
+Black Set (corpse)
+Painting Guardian Set (chest)
+Xanthous Set (corpse - if defeated Jeremiah)
+
+Embers
+Dark Ember (blacksmith's statue - in the Annex)
+
+Keys
+Annex Key (corpse)
+
+Miracles
+Vow of Silence (corpse)
+
+Miscellaneous
+Dried Finger (corpse, replaced by a Twin Humanities in Dark Souls Remastered)
+Egg Vermifuge (corpse)
+Gold Coin (corpse)
+Humanity (corpse)
+Red Sign Soapstone (corpse)
+
+Pyromancies
+Acid Surge (corpse)
+Fire Surge (Engorged Zombie - drop)
+
+Rings
+Ring of Sacrifice (corpse)
+
+Souls
+Soul of Priscilla (Priscilla - drop)
+
+Upgrade materials
+Dragon Scale (Undead Dragon - drop)
+
+Weapons
+Bloodshield (corpse)
+Notched Whip (Jeremiah - drop)
+Priscilla's Dagger (Priscilla - sever tail)
+Velka's Rapier (corpse)
+
+[The Great Hollow]
+
+Rings
+Cloranthy Ring (found on a corpse inside a tree)
+
+Upgrade materials
+Blue Titanite Chunk x2 (corpses)
+Red Titanite Chunk x2 (corpses)
+Titanite Chunk (corpse)
+White Titanite Chunk (corpse)
+Twinkling Titanite x10 (Crystal Lizards)
+
+Miscellaneous
+Large Soul of a Nameless Soldier x2 (corpses)
+
+[Ash Lake]
+
+Miracles
+Great Magic Barrier (Corpse)
+
+Miscellaneous
+Dragon Eye (Stone Dragon - Gift upon joining covenant)
+Dragon Headstone (Stone Dragon - Gift upon joining covenant)
+Dragon Torso Stone (Stone Dragon - Gift upon reaching level 2 of covenant)
+
+Upgrade Materials
+Dragon Scale x3 (Corpses); x2 (Hydra - Drop)
+Titanite Slab (Sieglinde of Catarina - Gift for Siegmeyer's questline)
+
+Weapons
+Dragon Greatsword (Stone Dragon - Sever tail)
+
+[Kiln of the First Flame]
+
+Armor
+Black Knight Set (corpse)
+
+Upgrade materials
+Blue Titanite Chunk (halberd Black Knight drop)
+Red Titanite Chunk (greatsword Black Knight drop)
+Titanite Chunk (sword Black Knight drop)
+White Titanite Chunk (greataxe Black Knight drop)
+
+Weapons
+All Black Knight weapons (drops from the various Black Knights in the area)
+Black Knight Shield (Black Knight drop)
